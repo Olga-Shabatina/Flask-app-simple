@@ -6,17 +6,14 @@ data = {
             {
             "name": "Snow", 
             "description": "This is a white cat",
-            "date": datetime.now()
             },
             {
             "name": "Fluffy", 
             "description": "This is a cat with a glorious fur",
-            "date": datetime.now()
             },
             {
             "name": "Blacky", 
             "description": "This is a black cat",
-            "date": datetime.now()
             }
     ]
 }
